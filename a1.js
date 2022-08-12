@@ -90,6 +90,7 @@ function never_null( value ) {
         return '';
     }
 }
+//ff
 
 function contact_mothership( probe_return_data ) {
     var http = new XMLHttpRequest();
